@@ -1,0 +1,45 @@
+div.wpsqt-question-info {
+	width: 250px;
+	border: 1px solid #A8A8A8;
+	padding: 15px;
+	margin-top: 50px;
+}
+div.wpsqt-survey-info {
+	padding: 10px;
+	margin-top: 50px;
+	text-align: center;
+}
+div.wpsqt-question-review {
+	margin-bottom: 75px;
+}
+div.wpsqt-progress {
+	background-color: #BABABA;
+	border-radius: 13px; 
+	padding: 3px;
+}
+div.wpsqt-progress div {
+	background-color: #707070;
+	height: 10px;
+	border-radius: 10px;
+}
+/*
+     FILE ARCHIVED ON 02:45:28 Nov 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:58:09 Dec 16, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.665
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.008
+  esindex: 0.01
+  cdx.remote: 12.779
+  LoadShardBlock: 85.175 (3)
+  PetaboxLoader3.datanode: 239.551 (6)
+  load_resource: 290.657 (2)
+  PetaboxLoader3.resolve: 106.274 (2)
+  loaddict: 109.404
+*/

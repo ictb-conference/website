@@ -1,0 +1,28 @@
+.dcjq-mega-menu ul, .dcjq-mega-menu ul li {list-style: none;}
+.dcjq-mega-menu ul.menu {position: relative; padding: 0; margin: 0;}
+.dcjq-mega-menu ul li ul {display: none;}
+.dcjq-mega-menu .sub {display: none;z-index:6000}
+.dcjq-mega-menu .sub ul {display: block;}
+
+.dcjq-mega-menu{clear:left;}
+/*
+     FILE ARCHIVED ON 02:30:20 Nov 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:58:09 Dec 16, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.89
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.007
+  esindex: 0.009
+  cdx.remote: 10.282
+  LoadShardBlock: 71.701 (3)
+  PetaboxLoader3.datanode: 233.638 (6)
+  load_resource: 296.263 (2)
+  PetaboxLoader3.resolve: 113.486 (2)
+  loaddict: 81.94
+*/
